@@ -1,0 +1,9 @@
+C:\Users\diem\source\repos\w3resource\Basic Algorithm\135\135\obj\Debug\_135.Form1.resources
+C:\Users\diem\source\repos\w3resource\Basic Algorithm\135\135\obj\Debug\_135.Properties.Resources.resources
+C:\Users\diem\source\repos\w3resource\Basic Algorithm\135\135\obj\Debug\135.csproj.GenerateResource.cache
+C:\Users\diem\source\repos\w3resource\Basic Algorithm\135\135\obj\Debug\135.csproj.CoreCompileInputs.cache
+C:\Users\diem\source\repos\w3resource\Basic Algorithm\135\135\bin\Debug\135.exe.config
+C:\Users\diem\source\repos\w3resource\Basic Algorithm\135\135\bin\Debug\135.exe
+C:\Users\diem\source\repos\w3resource\Basic Algorithm\135\135\bin\Debug\135.pdb
+C:\Users\diem\source\repos\w3resource\Basic Algorithm\135\135\obj\Debug\135.exe
+C:\Users\diem\source\repos\w3resource\Basic Algorithm\135\135\obj\Debug\135.pdb
