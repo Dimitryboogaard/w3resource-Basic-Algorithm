@@ -1,0 +1,10 @@
+C:\Users\diem\source\repos\51\51\bin\Debug\51.exe.config
+C:\Users\diem\source\repos\51\51\bin\Debug\51.exe
+C:\Users\diem\source\repos\51\51\bin\Debug\51.pdb
+C:\Users\diem\source\repos\51\51\obj\Debug\51.csprojAssemblyReference.cache
+C:\Users\diem\source\repos\51\51\obj\Debug\_51.Form1.resources
+C:\Users\diem\source\repos\51\51\obj\Debug\_51.Properties.Resources.resources
+C:\Users\diem\source\repos\51\51\obj\Debug\51.csproj.GenerateResource.cache
+C:\Users\diem\source\repos\51\51\obj\Debug\51.csproj.CoreCompileInputs.cache
+C:\Users\diem\source\repos\51\51\obj\Debug\51.exe
+C:\Users\diem\source\repos\51\51\obj\Debug\51.pdb
