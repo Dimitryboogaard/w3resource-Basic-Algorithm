@@ -1,0 +1,10 @@
+C:\Users\diem\source\repos\w3resource\Basic Algorithm\40\40\bin\Debug\40.exe.config
+C:\Users\diem\source\repos\w3resource\Basic Algorithm\40\40\bin\Debug\40.exe
+C:\Users\diem\source\repos\w3resource\Basic Algorithm\40\40\bin\Debug\40.pdb
+C:\Users\diem\source\repos\w3resource\Basic Algorithm\40\40\obj\Debug\40.csprojAssemblyReference.cache
+C:\Users\diem\source\repos\w3resource\Basic Algorithm\40\40\obj\Debug\_40.Form1.resources
+C:\Users\diem\source\repos\w3resource\Basic Algorithm\40\40\obj\Debug\_40.Properties.Resources.resources
+C:\Users\diem\source\repos\w3resource\Basic Algorithm\40\40\obj\Debug\40.csproj.GenerateResource.cache
+C:\Users\diem\source\repos\w3resource\Basic Algorithm\40\40\obj\Debug\40.csproj.CoreCompileInputs.cache
+C:\Users\diem\source\repos\w3resource\Basic Algorithm\40\40\obj\Debug\40.exe
+C:\Users\diem\source\repos\w3resource\Basic Algorithm\40\40\obj\Debug\40.pdb
