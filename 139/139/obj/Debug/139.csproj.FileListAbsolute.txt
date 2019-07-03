@@ -1,0 +1,10 @@
+C:\Users\diem\source\repos\w3resource\Basic Algorithm\139\139\obj\Debug\139.csprojAssemblyReference.cache
+C:\Users\diem\source\repos\w3resource\Basic Algorithm\139\139\obj\Debug\_139.Form1.resources
+C:\Users\diem\source\repos\w3resource\Basic Algorithm\139\139\obj\Debug\_139.Properties.Resources.resources
+C:\Users\diem\source\repos\w3resource\Basic Algorithm\139\139\obj\Debug\139.csproj.GenerateResource.cache
+C:\Users\diem\source\repos\w3resource\Basic Algorithm\139\139\obj\Debug\139.csproj.CoreCompileInputs.cache
+C:\Users\diem\source\repos\w3resource\Basic Algorithm\139\139\bin\Debug\139.exe.config
+C:\Users\diem\source\repos\w3resource\Basic Algorithm\139\139\bin\Debug\139.exe
+C:\Users\diem\source\repos\w3resource\Basic Algorithm\139\139\bin\Debug\139.pdb
+C:\Users\diem\source\repos\w3resource\Basic Algorithm\139\139\obj\Debug\139.exe
+C:\Users\diem\source\repos\w3resource\Basic Algorithm\139\139\obj\Debug\139.pdb
