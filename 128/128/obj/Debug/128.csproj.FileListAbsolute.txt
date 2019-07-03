@@ -1,0 +1,10 @@
+C:\Users\diem\source\repos\w3resource\Basic Algorithm\128\128\bin\Debug\128.exe.config
+C:\Users\diem\source\repos\w3resource\Basic Algorithm\128\128\bin\Debug\128.exe
+C:\Users\diem\source\repos\w3resource\Basic Algorithm\128\128\bin\Debug\128.pdb
+C:\Users\diem\source\repos\w3resource\Basic Algorithm\128\128\obj\Debug\128.csprojAssemblyReference.cache
+C:\Users\diem\source\repos\w3resource\Basic Algorithm\128\128\obj\Debug\_128.Form1.resources
+C:\Users\diem\source\repos\w3resource\Basic Algorithm\128\128\obj\Debug\_128.Properties.Resources.resources
+C:\Users\diem\source\repos\w3resource\Basic Algorithm\128\128\obj\Debug\128.csproj.GenerateResource.cache
+C:\Users\diem\source\repos\w3resource\Basic Algorithm\128\128\obj\Debug\128.csproj.CoreCompileInputs.cache
+C:\Users\diem\source\repos\w3resource\Basic Algorithm\128\128\obj\Debug\128.exe
+C:\Users\diem\source\repos\w3resource\Basic Algorithm\128\128\obj\Debug\128.pdb
