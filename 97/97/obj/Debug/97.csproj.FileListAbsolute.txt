@@ -1,0 +1,9 @@
+C:\Users\diem\source\repos\w3resource\Basic Algorithm\97\97\bin\Debug\97.exe.config
+C:\Users\diem\source\repos\w3resource\Basic Algorithm\97\97\bin\Debug\97.exe
+C:\Users\diem\source\repos\w3resource\Basic Algorithm\97\97\bin\Debug\97.pdb
+C:\Users\diem\source\repos\w3resource\Basic Algorithm\97\97\obj\Debug\_97.Form1.resources
+C:\Users\diem\source\repos\w3resource\Basic Algorithm\97\97\obj\Debug\_97.Properties.Resources.resources
+C:\Users\diem\source\repos\w3resource\Basic Algorithm\97\97\obj\Debug\97.csproj.GenerateResource.cache
+C:\Users\diem\source\repos\w3resource\Basic Algorithm\97\97\obj\Debug\97.csproj.CoreCompileInputs.cache
+C:\Users\diem\source\repos\w3resource\Basic Algorithm\97\97\obj\Debug\97.exe
+C:\Users\diem\source\repos\w3resource\Basic Algorithm\97\97\obj\Debug\97.pdb
