@@ -1,0 +1,10 @@
+C:\Users\diem\source\repos\w3resource\Basic Algorithm\106\106\bin\Debug\106.exe.config
+C:\Users\diem\source\repos\w3resource\Basic Algorithm\106\106\bin\Debug\106.exe
+C:\Users\diem\source\repos\w3resource\Basic Algorithm\106\106\bin\Debug\106.pdb
+C:\Users\diem\source\repos\w3resource\Basic Algorithm\106\106\obj\Debug\106.csprojAssemblyReference.cache
+C:\Users\diem\source\repos\w3resource\Basic Algorithm\106\106\obj\Debug\_106.Form1.resources
+C:\Users\diem\source\repos\w3resource\Basic Algorithm\106\106\obj\Debug\_106.Properties.Resources.resources
+C:\Users\diem\source\repos\w3resource\Basic Algorithm\106\106\obj\Debug\106.csproj.GenerateResource.cache
+C:\Users\diem\source\repos\w3resource\Basic Algorithm\106\106\obj\Debug\106.csproj.CoreCompileInputs.cache
+C:\Users\diem\source\repos\w3resource\Basic Algorithm\106\106\obj\Debug\106.exe
+C:\Users\diem\source\repos\w3resource\Basic Algorithm\106\106\obj\Debug\106.pdb
