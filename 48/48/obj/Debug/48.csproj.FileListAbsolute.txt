@@ -1,0 +1,9 @@
+C:\Users\diem\source\repos\w3resource\Basic Algorithm\48\48\bin\Debug\48.exe.config
+C:\Users\diem\source\repos\w3resource\Basic Algorithm\48\48\bin\Debug\48.exe
+C:\Users\diem\source\repos\w3resource\Basic Algorithm\48\48\bin\Debug\48.pdb
+C:\Users\diem\source\repos\w3resource\Basic Algorithm\48\48\obj\Debug\_48.Form1.resources
+C:\Users\diem\source\repos\w3resource\Basic Algorithm\48\48\obj\Debug\_48.Properties.Resources.resources
+C:\Users\diem\source\repos\w3resource\Basic Algorithm\48\48\obj\Debug\48.csproj.GenerateResource.cache
+C:\Users\diem\source\repos\w3resource\Basic Algorithm\48\48\obj\Debug\48.csproj.CoreCompileInputs.cache
+C:\Users\diem\source\repos\w3resource\Basic Algorithm\48\48\obj\Debug\48.exe
+C:\Users\diem\source\repos\w3resource\Basic Algorithm\48\48\obj\Debug\48.pdb
