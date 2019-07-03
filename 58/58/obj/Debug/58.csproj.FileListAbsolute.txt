@@ -1,0 +1,9 @@
+C:\Users\diem\source\repos\w3resource\Basic Algorithm\58\58\bin\Debug\58.exe.config
+C:\Users\diem\source\repos\w3resource\Basic Algorithm\58\58\bin\Debug\58.exe
+C:\Users\diem\source\repos\w3resource\Basic Algorithm\58\58\bin\Debug\58.pdb
+C:\Users\diem\source\repos\w3resource\Basic Algorithm\58\58\obj\Debug\_58.Form1.resources
+C:\Users\diem\source\repos\w3resource\Basic Algorithm\58\58\obj\Debug\_58.Properties.Resources.resources
+C:\Users\diem\source\repos\w3resource\Basic Algorithm\58\58\obj\Debug\58.csproj.GenerateResource.cache
+C:\Users\diem\source\repos\w3resource\Basic Algorithm\58\58\obj\Debug\58.csproj.CoreCompileInputs.cache
+C:\Users\diem\source\repos\w3resource\Basic Algorithm\58\58\obj\Debug\58.exe
+C:\Users\diem\source\repos\w3resource\Basic Algorithm\58\58\obj\Debug\58.pdb
