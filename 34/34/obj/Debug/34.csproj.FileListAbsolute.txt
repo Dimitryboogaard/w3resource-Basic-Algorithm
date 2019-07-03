@@ -1,0 +1,10 @@
+C:\Users\diem\source\repos\w3resource\Basic Algorithm\34\34\bin\Debug\34.exe.config
+C:\Users\diem\source\repos\w3resource\Basic Algorithm\34\34\bin\Debug\34.exe
+C:\Users\diem\source\repos\w3resource\Basic Algorithm\34\34\bin\Debug\34.pdb
+C:\Users\diem\source\repos\w3resource\Basic Algorithm\34\34\obj\Debug\34.csprojAssemblyReference.cache
+C:\Users\diem\source\repos\w3resource\Basic Algorithm\34\34\obj\Debug\_34.Form1.resources
+C:\Users\diem\source\repos\w3resource\Basic Algorithm\34\34\obj\Debug\_34.Properties.Resources.resources
+C:\Users\diem\source\repos\w3resource\Basic Algorithm\34\34\obj\Debug\34.csproj.GenerateResource.cache
+C:\Users\diem\source\repos\w3resource\Basic Algorithm\34\34\obj\Debug\34.csproj.CoreCompileInputs.cache
+C:\Users\diem\source\repos\w3resource\Basic Algorithm\34\34\obj\Debug\34.exe
+C:\Users\diem\source\repos\w3resource\Basic Algorithm\34\34\obj\Debug\34.pdb
